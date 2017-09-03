@@ -1,5 +1,5 @@
 {
-  "name": "libscanmedia",
+  "name": "libScanMedia",
   "version": "1.0.0",
   "description": "Scanners for Media Files",
   "main": "index.js",
