@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var http = require("http"),
 url = require("url"),
 path = require("path"),
@@ -45,11 +44,3 @@ exports.web =	startServer()
 exports.printMsg = function() {
 	console.log("This is a message from the demo package");
 }
-=======
-var http = require('http'); // Fait appel à http.js
-var url = require('url'); // Fait appel à url.js
-
-exports.printMsg = function() {
-	console.log("This is a message from the demo package");
-}
->>>>>>> 4602cc541fbd552dccd66649f48a7d8e653431bd
