@@ -4,7 +4,8 @@
 /node_modules/
 # IntelliJ project files
 /.idea/
-*.iml
+/package-lock.json
+/.gitignore
 out
 gen
-.gitignore
+
