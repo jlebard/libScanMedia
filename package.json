@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "build": "...",
-
     "patch-release": "npm version patch && npm publish && git push --follow-tags",
     "git-commit": "git add -A . && git commit -a -m 'gh-pages update'",
     "git-push": "git push origin gh-pages --force && git checkout master",
@@ -35,3 +34,4 @@
   },
   "homepage": "https://github.com/jlebard/libScanMedia#readme"
 }
+
